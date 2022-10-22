@@ -1,0 +1,15 @@
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.csproj.AssemblyReference.cache
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.AssemblyInfoInputs.cache
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.AssemblyInfo.cs
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.csproj.CoreCompileInputs.cache
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\bin\Debug\net6.0\HerovsDungeon.exe
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\bin\Debug\net6.0\HerovsDungeon.deps.json
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\bin\Debug\net6.0\HerovsDungeon.runtimeconfig.json
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\bin\Debug\net6.0\HerovsDungeon.dll
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\bin\Debug\net6.0\HerovsDungeon.pdb
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.dll
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\refint\HerovsDungeon.dll
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.pdb
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\HerovsDungeon.genruntimeconfig.cache
+C:\Users\DELL G3\source\repos\HerovsDungeon\HerovsDungeon\obj\Debug\net6.0\ref\HerovsDungeon.dll
